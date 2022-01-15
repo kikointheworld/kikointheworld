@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=300&section=header&text=kkkiko%20Footprint&fontSize=90"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=270&section=header&text=kkkiko%20GitHub&fontColor=FFFFFF&fontSize=80"/>
 <br>
 </p>
 
