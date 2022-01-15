@@ -5,11 +5,11 @@
 </p>
 
 
-<h4 align="center">Hello👋! I'm a student who's studying web and iOS app development.<br>
+<h3 align="center">Hello👋! I'm a student who's studying web and iOS app development.<br>
  </h3>
 
 
-<h3 align="center"> Contact </h3>
+<h3 align="center">☎️  Contact  ☎️ </h3>
 <p align="center"> 
 <img src="https://img.shields.io/badge/popo9855-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 <img src="https://img.shields.io/badge/kimsunj_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
@@ -18,7 +18,7 @@
 </p>
 
 <br>
-<h3 align="center"> skills </h3>
+<h3 align="center"> 🛠  Skills  🛠 </h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
