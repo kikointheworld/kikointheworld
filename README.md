@@ -37,6 +37,8 @@
 <br><br>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=kikointheworld&theme=default&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikointheworld&layout=compact"/>
+ 
 </p>
 
 <p align="center">
