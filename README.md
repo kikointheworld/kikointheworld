@@ -1,18 +1,24 @@
-### kkkio's GitHuB
-<p > 
+
+<p align="center"> 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=300&section=header&text=kkkiko%20Footprint&fontSize=90"/>
+<br>
+</p>
+
+
+<h4 align="center">Hello👋! I'm a student who's studying web and iOS app development.<br>
+ </h3>
+
+
+<h3 align="center"> Contact </h3>
+<p align="center"> 
 <img src="https://img.shields.io/badge/popo9855-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 <img src="https://img.shields.io/badge/kimsunj_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/popo9855@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
 </p>
 
-
-
 <br>
-<h3 align="center">Hello👋! I'm a student who's studying __web and iOS app__ development.</h3>
-
-<br>
- <h3 align="center"> skills </h3>
+<h3 align="center"> skills </h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
