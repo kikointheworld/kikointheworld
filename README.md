@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">Hello👋! I'm a student who's studying web and iOS app development.<br>
+<h3 align="center">Hello👋! I'm a student who's studying web and iOS app development.👍<br>
  </h3>
 
 
