@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=270&section=header&text=WELCOME%20TO%20GitHub&fontColor=FFFFFF&fontSize=80"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=270&section=header&text=my%20TO%20git&fontColor=FFFFFF&fontSize=80"/>
 <br>
 </p>
 
