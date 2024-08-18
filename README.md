@@ -1,12 +1,12 @@
 
 <p align="center"> 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=270&section=header&text=my%20TO%20git&fontColor=FFFFFF&fontSize=80"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=270&section=header&text=SUN%20TO%20github&fontColor=FFFFFF&fontSize=80"/>
 <br>
 </p>
 
 
  
-<h3 align="center">👋 I'm a student who's studying web and iOS app development.👍<br>
+<h3 align="center">👋 passionate about constantly improving performance and creating an optimized environment👍<br>
  </h3>
   
  
