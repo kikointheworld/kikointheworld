@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=270&section=header&text=SUN%20TO%20github&fontColor=FFFFFF&fontSize=80"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=3985ee&height=270&section=header&text=SUN%20github&fontColor=FFFFFF&fontSize=80"/>
 <br>
 </p>
 
