@@ -13,10 +13,7 @@
 
 <h3 align="center">☎️  Contact  ☎️ </h3>
 <p align="center"> 
-<img src="https://img.shields.io/badge/popo9855-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
-<img src="https://img.shields.io/badge/kimsunj_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/popo9855@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/sunlookingforajob@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
  
 <br>
@@ -34,6 +31,13 @@
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/langchain-8A2BE2"/>
+ <img src="https://img.shields.io/badge/transformers-8A2BE2"/>
+ <img src="https://img.shields.io/badge/LLM-8A2BE2"/>
+ <img src="https://img.shields.io/badge/PyTorch-8A2BE2"/>
+ <img src="https://img.shields.io/badge/TensorFlow-8A2BE2"/>
 </p>
 
 <br><br>
